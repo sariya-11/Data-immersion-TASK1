@@ -1,0 +1,46 @@
+DATA DICTIONARY
+
+1. Customer_ID
+- Unique identification number for each customer
+- Data type: Integer
+- Purpose: Helps to uniquely identify each record
+
+2. Name
+- Name of the customer
+- Data type: String
+- Purpose: Basic customer identification
+
+3. DOB
+- Date of Birth of customer
+- Data type: Date
+- Purpose: Used to calculate age
+
+4. Gender
+- Gender of customer (Male/Female)
+- Data type: String
+- Purpose: Customer segmentation
+
+5. City
+- City where customer belongs
+- Data type: String
+- Purpose: Location-based analysis
+
+6. Purchase_Amount
+- Amount spent by customer
+- Data type: Float
+- Purpose: Understand spending behavior
+
+7. Purchase_Date
+- Date of transaction
+- Data type: Date
+- Purpose: Time-based analysis
+
+FEATURE ENGINEERING:
+
+8. Customer_Age
+- Calculated from DOB
+- Purpose: Age-based insights
+
+9. Spending_Category
+- High or Low based on purchase amount
+- Purpose: Customer classification

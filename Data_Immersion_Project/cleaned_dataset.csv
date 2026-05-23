@@ -1,0 +1,11 @@
+Customer_ID,Name,DOB,Gender,City,Purchase_Amount,Purchase_Date,Customer_Age,Spending_Category
+1,Ali,2000-05-10,MALE,Hyderabad,450.0,2025-01-10,26,Low
+2,Sara,1999-08-12,FEMALE,Chennai,700.0,2025-02-11,27,High
+3,John,2001-03-15,MALE,Bangalore,300.0,2025-03-05,25,Low
+4,Ayesha,1998-07-20,FEMALE,Mumbai,900.0,2025-01-25,28,High
+5,Rahul,2002-11-30,MALE,Delhi,650.0,2025-04-15,24,High
+6,Meena,2000-09-09,FEMALE,Unknown,500.0,2025-02-18,26,Low
+7,David,1997-12-01,MALE,Kolkata,611.1111111111111,2025-03-20,29,High
+8,Sneha,2001-06-14,FEMALE,Pune,750.0,2025-04-10,25,High
+9,Arjun,1999-01-05,MALE,Hyderabad,400.0,2025-05-12,27,Low
+10,Zoya,2003-10-22,FEMALE,Chennai,850.0,2025-05-20,23,High

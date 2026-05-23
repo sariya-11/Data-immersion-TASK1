@@ -1,0 +1,11 @@
+Customer_ID,Name,DOB,Gender,City,Purchase_Amount,Purchase_Date
+1,Ali,2000-05-10,Male,Hyderabad,450,2025-01-10
+2,Sara,1999-08-12,Female,Chennai,700,2025-02-11
+3,John,2001-03-15,Male,Bangalore,300,2025-03-05
+4,Ayesha,1998-07-20,Female,Mumbai,900,2025-01-25
+5,Rahul,2002-11-30,Male,Delhi,650,2025-04-15
+6,Meena,2000-09-09,Female,,500,2025-02-18
+7,David,1997-12-01,Male,Kolkata,,2025-03-20
+8,Sneha,2001-06-14,Female,Pune,750,2025-04-10
+9,Arjun,1999-01-05,Male,Hyderabad,400,2025-05-12
+10,Zoya,2003-10-22,Female,Chennai,850,2025-05-20
