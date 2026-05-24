@@ -20,9 +20,8 @@ cleaned = pd.read_csv("cleaned_dataset.csv")
 
 print("STARTING VISUALIZATION")
 
-# =========================
 # 1. BAR CHART (LIMITED - NO LOOP ISSUE)
-# =========================
+
 obj_cols = raw.select_dtypes(include='object').columns
 
 if len(obj_cols) > 0:
@@ -32,10 +31,8 @@ if len(obj_cols) > 0:
     plt.title(f"Bar Chart - Raw ({col})")
     plt.show()
 
-
-# =========================
 # 2. HISTOGRAM
-# =========================
+
 plt.figure()
 raw.hist()
 plt.suptitle("Histogram - Raw")
@@ -46,10 +43,8 @@ cleaned.hist()
 plt.suptitle("Histogram - Cleaned")
 plt.show()
 
-
-# =========================
 # 3. BOXPLOT
-# =========================
+
 plt.figure()
 raw.select_dtypes(include='number').plot(kind='box')
 plt.title("Boxplot - Raw")
@@ -60,10 +55,8 @@ cleaned.select_dtypes(include='number').plot(kind='box')
 plt.title("Boxplot - Cleaned")
 plt.show()
 
-
-# =========================
 # 4. HEATMAP
-# =========================
+
 plt.figure()
 sns.heatmap(raw.corr(numeric_only=True), cmap="coolwarm")
 plt.title("Heatmap - Raw")
