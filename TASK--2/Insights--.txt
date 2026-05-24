@@ -1,0 +1,5 @@
+- Data was analyzed using EDA techniques.
+- Missing values and duplicates checked.
+- Distribution patterns studied using histograms.
+- Outliers detected using boxplots.
+- Correlation analysis performed using heatmaps.
