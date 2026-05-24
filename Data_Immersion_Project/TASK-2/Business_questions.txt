@@ -1,0 +1,9 @@
+BUSINESS QUESTIONS:
+
+1. What are the most frequent categories in the dataset?
+2. What is the distribution of numerical values?
+3. Are there any missing values in the dataset?
+4. What relationships exist between variables?
+5. Which features are highly correlated?
+6. How does cleaned data differ from raw data?
+7. What patterns can help in business decision making?

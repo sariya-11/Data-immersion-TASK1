@@ -1,0 +1,15 @@
+1. The dataset was successfully loaded and examined for both raw and cleaned versions.
+
+2. Missing values and duplicate records were identified and handled during preprocessing.
+
+3. Descriptive statistics helped understand the central tendency and spread of the data.
+
+4. Univariate analysis showed the distribution of individual variables using histograms and bar charts.
+
+5. Boxplots were used to identify outliers in numerical columns.
+
+6. Heatmaps helped in understanding relationships and correlations between variables.
+
+7. The cleaned dataset is more structured and ready for further analysis.
+
+8. The data is suitable for SQL querying and dashboard creation.
